@@ -1,0 +1,1 @@
+In this report, I Naive Bayes algorithm was implemented from scratch before being used to predict the genre of a given book solely by its text description. BoW (Bag of Words) representation was also implemented and used for this project.
